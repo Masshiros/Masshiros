@@ -40,6 +40,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=masshiros&show_icons=true&theme=dracula&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=masshiros&show_icons=true&theme=radical&locale=en&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=masshiros&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masshiros&theme=dark)<br/>

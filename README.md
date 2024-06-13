@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/vu-nguyen-617b27147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phonghoai" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013964582427&sk=about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fng.106" height="30" width="40" /></a>
 </hr>
+
   # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

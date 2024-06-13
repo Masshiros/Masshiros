@@ -5,9 +5,9 @@
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Greenwich, VietNam<br/>
-🌱 I’m currently learning **Mobile flutter development, cloud,devops...**
-👨‍💻 All of my projects are available at **Update later**
-📫 How to reach me **nguyenvu260703.dev@gmai.com**
+🌱 I’m currently learning **Mobile flutter development, cloud,devops...**<br/>
+👨‍💻 All of my projects are available at **Update later**<br/>
+📫 How to reach me **nguyenvu260703.dev@gmai.com**<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vu-nguyen-617b27147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phonghoai" height="30" width="40" /></a>
